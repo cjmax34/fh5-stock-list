@@ -45,9 +45,6 @@ Koenigsegg
 Lamborghini
 * 2x Aventador SVJ - 15M/car
 
-Lancia
-- 1x Fulvia - 25M
-
 Lynk & Co
 * 2x #100 Cyan Racing 03 - 20M/car
 
