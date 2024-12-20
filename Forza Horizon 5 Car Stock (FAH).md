@@ -9,9 +9,15 @@ Aston Martin
 * 1x Lagonda - 20M
 * 3x Valkyrie AMR Pro - 20M/car
 
+Audi
+* 5x RS 7 '21 - 35M/car
+
 Cadillac
-* 4x CT5-V - 10M/car
+* 5x CT5-V - 10M/car
 * 36x Limo - 5M/car
+
+Chevrolet
+* 8x K10 - 25M/car
 
 Dodge
 * 2x Durango SRT Hellcat - 25M/car
@@ -44,12 +50,22 @@ Koenigsegg
 
 Lamborghini
 * 2x Aventador SVJ - 15M/car
+* 5x Countach '21 - 25M/car
+
+Lincoln
+* 2x Continental - 40M/car
 
 Lynk & Co
 * 2x #100 Cyan Racing 03 - 20M/car
 
+Lotus
+* 9x 2-Eleven - 10M/car
+
 Mercedes-AMG
 * 3x GT Black Series - 25M/car
+
+McLaren
+* 6x 765LT - 25M/car
 
 MG
 * 2x #20 MG6 - 20M/car (1 RESERVED)
@@ -61,8 +77,17 @@ Nissan
 * 3x Sentra Nismo - 25M/car
 * 1x Z - buyout/car
 
+Nio
+* 7x EP9 - 15M/car
+
 Polaris
 * 1x RZR Pro XP Ultimate - 50M/car
+
+Pontiac
+* 1x GTO Judge - 50M
+
+RAESR
+* 5x Tachyon - 20M/car
 
 Renault
 * 2x Clio R.S. '16 - 20M/car
