@@ -53,7 +53,7 @@ Lamborghini
 * 5x Countach '21 - 25M/car
 
 Lincoln
-* 2x Continental - 40M/car
+* 2x Continental - 40M/car (1 RESERVED)
 
 Lynk & Co
 * 2x #100 Cyan Racing 03 - 20M/car
@@ -81,7 +81,7 @@ Nio
 * 7x EP9 - 15M/car
 
 Polaris
-* 1x RZR Pro XP Ultimate - 50M/car
+* 1x RZR Pro XP Ultimate - 50M/car (1 RESERVED)
 
 Pontiac
 * 1x GTO Judge - 50M
