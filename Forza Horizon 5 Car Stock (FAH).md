@@ -1,6 +1,6 @@
 # Please DM me after replying to my post. Donor cars first. I won't offer refunds if the car gets sniped. Thank you!
 AMC
-* 5x Javelin - 40M/car (1 RESERVED)
+* 5x Javelin - 40M/car
 
 Ascari
 * 3x KZ1R - 15M/car
