@@ -56,7 +56,7 @@ Lincoln
 * 2x Continental - 40M/car
 
 Lynk & Co
-* 1x #100 Cyan Racing 03 - 20M/car
+* 2x #100 Cyan Racing 03 - 20M/car
 
 Lotus
 * 9x 2-Eleven - 10M/car
