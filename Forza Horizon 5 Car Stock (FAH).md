@@ -81,7 +81,7 @@ Nio
 * 7x EP9 - 15M/car
 
 Pontiac
-* 1x GTO Judge - 50M
+* 1x GTO Judge - 50M (1 RESERVED)
 
 RAESR
 * 5x Tachyon - 20M/car
