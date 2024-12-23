@@ -46,14 +46,14 @@ Kia
 * 2x EV6 GT - 20M/car
 
 Koenigsegg
-* 15x CCGT - 15M/car
+* 4x CCGT - 15M/car
 
 Lamborghini
 * 2x Aventador SVJ - 15M/car
 * 5x Countach '21 - 25M/car
 
 Lincoln
-* 2x Continental - 40M/car (1 RESERVED)
+* 1x Continental - 40M/car
 
 Lynk & Co
 * 2x #100 Cyan Racing 03 - 20M/car
@@ -79,9 +79,6 @@ Nissan
 
 Nio
 * 7x EP9 - 15M/car
-
-Polaris
-* 1x RZR Pro XP Ultimate - 50M/car (1 RESERVED)
 
 Pontiac
 * 1x GTO Judge - 50M
