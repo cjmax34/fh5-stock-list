@@ -12,6 +12,9 @@ Aston Martin
 Audi
 * 5x RS 7 '21 - 35M/car
 
+BMW
+* 2x 850CSi - 20M/car
+
 Cadillac
 * 5x CT5-V - 10M/car
 * 36x Limo - 5M/car
@@ -41,6 +44,7 @@ HDT
 
 Hyundai
 * 2x I30 N - 20M/car
+* 2x Kona N - 20M/car
 
 Kia
 * 2x EV6 GT - 20M/car
@@ -56,10 +60,13 @@ Lincoln
 * 1x Continental - 40M/car
 
 Lynk & Co
-* 2x #100 Cyan Racing 03 - 20M/car
+* 3x #100 Cyan Racing 03 - 20M/car
 
 Lotus
 * 9x 2-Eleven - 10M/car
+
+Maserati
+* 1x 8CTF - 25M
 
 Mercedes-AMG
 * 3x GT Black Series - 25M/car
