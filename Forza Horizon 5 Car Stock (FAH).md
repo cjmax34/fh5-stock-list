@@ -88,9 +88,6 @@ Nissan
 Nio
 * 7x EP9 - 15M/car
 
-Pontiac
-* 1x GTO Judge - 50M
-
 RAESR
 * 5x Tachyon - 20M/car
 
