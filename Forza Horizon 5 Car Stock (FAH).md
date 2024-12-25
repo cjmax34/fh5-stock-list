@@ -33,7 +33,6 @@ Extreme E
 
 Ferrari
 * 1x 599 GTO - 20M
-* 1x SF90  - 30M (1 RESERVED)
 
 Ford
 * 1x #66 GT LM - 25M
