@@ -14,9 +14,11 @@ Audi
 
 BMW
 * 2x 850CSi - 20M/car
+* 1x iX xDrive50 - 20M
+* 1x M2 '23 - 25M
 
 Cadillac
-* 5x CT5-V - 10M/car
+* 6x CT5-V - 10M/car
 * 36x Limo - 5M/car
 
 Chevrolet
@@ -74,7 +76,7 @@ McLaren
 * 6x 765LT - 25M/car
 
 MG
-* 2x #20 MG6 - 20M/car
+* 3x #20 MG6 - 20M/car
 
 Morris
 * 2x Minor Traveler - 45M
@@ -94,6 +96,9 @@ RAESR
 
 Renault
 * 2x Clio R.S. '16 - 20M/car
+
+Rivian
+* 1x R1T - 20M
 
 Toyota
 * 2x AT38 - 30M
