@@ -98,7 +98,6 @@ Renault
 Toyota
 * 2x AT38 - 30M
 * 4x Camry - 25M/car
-* 1x Chaser GT TT - 25M
 * 1x GR86 - 25M
 * 2x MR2 GT - 20M
 
