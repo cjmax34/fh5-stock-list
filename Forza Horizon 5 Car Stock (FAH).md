@@ -74,7 +74,7 @@ McLaren
 * 6x 765LT - 25M/car
 
 MG
-* 2x #20 MG6 - 20M/car (1 RESERVED)
+* 2x #20 MG6 - 20M/car
 
 Morris
 * 2x Minor Traveler - 45M
@@ -87,7 +87,7 @@ Nio
 * 7x EP9 - 15M/car
 
 Pontiac
-* 1x GTO Judge - 50M (1 RESERVED)
+* 1x GTO Judge - 50M
 
 RAESR
 * 5x Tachyon - 20M/car
