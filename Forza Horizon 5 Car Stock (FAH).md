@@ -82,7 +82,7 @@ Mercedes-AMG
 * 4x GT Black Series - 25M/car
 
 McLaren
-* 6x 765LT - 25M/car
+* 6x 765LT - 25M/car (ALL RESERVED)
 
 MG
 * 4x #20 MG6 - 20M/car
