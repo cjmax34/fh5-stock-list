@@ -13,7 +13,12 @@ Aston Martin
 * 3x Valkyrie AMR Pro - 20M/car
 
 Audi
+* 1x RS 4 '18 - 25M
+* 1x RS 6 '21 - 25M
 * 5x RS 7 '21 - 35M/car
+
+Bentley
+* 1x Turbo R - 20M
 
 BMW
 * 2x 850CSi - 20M/car
@@ -21,7 +26,7 @@ BMW
 * 1x M2 '23 - 25M
 
 Cadillac
-* 6x CT5-V - 10M/car
+* 7x CT5-V - 10M/car
 * 36x Limo - 5M/car
 
 Chevrolet
@@ -47,8 +52,9 @@ HDT
 * 3x VK Commodore - 30M/car
 
 Hyundai
-* 2x I30 N - 20M/car
-* 2x Kona N - 20M/car
+* 2x I30 - 20M/car
+* 1x Ioniq 5 - 20M
+* 2x Kona - 20M/car
 
 Kia
 * 2x EV6 GT - 20M/car
@@ -57,14 +63,14 @@ Koenigsegg
 * 4x CCGT - 15M/car
 
 Lamborghini
-* 2x Aventador SVJ - 15M/car
+* 1x Aventador '21 - 25M
 * 5x Countach '21 - 25M/car
 
 Lincoln
 * 1x Continental - 40M/car
 
 Lynk & Co
-* 3x #100 Cyan Racing 03 - 20M/car
+* 4x #100 Cyan Racing 03 - 20M/car
 
 Lotus
 * 9x 2-Eleven - 10M/car
@@ -73,16 +79,16 @@ Maserati
 * 1x 8CTF - 25M
 
 Mercedes-AMG
-* 3x GT Black Series - 25M/car
+* 4x GT Black Series - 25M/car
 
 McLaren
 * 6x 765LT - 25M/car
 
 MG
-* 3x #20 MG6 - 20M/car
+* 4x #20 MG6 - 20M/car
 
 Morris
-* 2x Minor Traveler - 45M
+* 3x Minor Traveler - 45M
 
 Nissan
 * 3x Sentra Nismo - 25M/car
@@ -91,6 +97,9 @@ Nissan
 Nio
 * 7x EP9 - 15M/car
 
+Pontiac
+* 2x GTO Judge - 50M
+
 RAESR
 * 5x Tachyon - 20M/car
 
@@ -98,11 +107,17 @@ Renault
 * 2x Clio R.S. '16 - 20M/car
 
 Rivian
-* 1x R1T - 20M
+* 3x R1T - 20M
+
+Spania GTA Spano - 25M
+
+Subaru
+* 1x Legacy - 40M
 
 Toyota
-* 2x AT38 - 30M
-* 4x Camry - 25M/car
+* 1x AT37 - 40M
+* 4x AT38 - 30M
+* 5x Camry - 25M/car
 * 1x GR86 - 25M
 * 2x MR2 GT - 20M
 
