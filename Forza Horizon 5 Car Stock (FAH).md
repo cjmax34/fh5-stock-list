@@ -64,7 +64,7 @@ Koenigsegg
 
 Lamborghini
 * 1x Aventador '21 - 25M
-* 5x Countach '21 - 25M/car
+* 3x Countach '21 - 25M/car
 
 Lincoln
 * 1x Continental - 40M/car
@@ -79,7 +79,7 @@ Maserati
 * 1x 8CTF - 25M
 
 Mercedes-AMG
-* 4x GT Black Series - 25M/car
+* 3x GT Black Series - 25M/car
 
 McLaren
 * 6x 765LT - 25M/car (ALL RESERVED)
