@@ -23,7 +23,6 @@ Bentley
 BMW
 * 2x 850CSi - 20M/car
 * 1x iX xDrive50 - 20M
-* 1x M2 '23 - 25M
 
 Cadillac
 * 7x CT5-V - 10M/car
