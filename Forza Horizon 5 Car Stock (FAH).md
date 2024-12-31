@@ -17,7 +17,7 @@ Aston Martin
 
 Audi
 * 1x RS 4 '18 - 25M
-* 1x RS 6 '21 - 25M
+* 1x RS 6 '21 - 25M (RESERVED)
 * 6x RS 7 '21 - 35M/car
 
 Bentley
