@@ -82,7 +82,6 @@ Maserati
 
 McLaren
 * 1x 650S Spider - 30M
-* 6x 765LT - 25M/car (ALL RESERVED)
 
 Mercedes-AMG
 * 4x GT Black Series - 25M/car
