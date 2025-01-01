@@ -3,7 +3,7 @@ Abarth
 * 2x 124 Spider - 25M/car
 
 Alfa Romeo
-* 6x 8C - 45M/car
+* 5x 8C - 45M/car
 
 AMC
 * 4x Javelin - 40M/car
@@ -17,7 +17,6 @@ Aston Martin
 
 Audi
 * 1x RS 4 '18 - 25M
-* 1x RS 6 '21 - 25M (RESERVED)
 * 6x RS 7 '21 - 35M/car
 
 Bentley
@@ -65,7 +64,6 @@ Koenigsegg
 * 4x CCGT - 15M/car
 
 Lamborghini
-* 1x Aventador '21 - 25M
 * 3x Countach '21 - 25M/car
 
 Lincoln
@@ -117,15 +115,13 @@ Rivian
 
 Rossion Q1 - 30M
 
-Spania GTA Spano - 25M
-
 Subaru
 * 1x Legacy - 40M
 
 Toyota
 * 2x AT37 - 40M
 * 5x AT38 - 30M
-* 5x Camry - 25M/car
+* 4x Camry - 25M/car
 * 1x GR86 - 25M
 * 2x MR2 GT - 20M
 
