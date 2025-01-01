@@ -10,7 +10,7 @@ AMC
 * 4x Javelin - 40M/car
 
 Ascari
-* 3x KZ1R - 15M/car
+* ~~3x KZ1R - 15M/car~~
 
 Aston Martin
 * 1x Lagonda - 20M
