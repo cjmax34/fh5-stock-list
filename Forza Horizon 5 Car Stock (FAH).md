@@ -102,7 +102,7 @@ Plymouth
 * 1x Fury - 45M
 
 Pontiac
-* 2x GTO Judge - 50M
+* 1x GTO Judge - 50M
 
 RAESR
 * 5x Tachyon - 20M/car
