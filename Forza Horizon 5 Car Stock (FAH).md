@@ -98,7 +98,6 @@ Nio
 * 7x EP9 - 15M/car
 
 Plymouth
-* 1x Barracuda - 25M
 * 1x Fury - 45M
 
 Pontiac
