@@ -37,7 +37,7 @@ Deberti
 * 3x Ford F-250 - 35M/car
 
 Dodge
-* 2x Durango SRT Hellcat - 25M/car
+* 1x Durango SRT Hellcat - 25M/car
 
 Donkervoort
 * 1x D8 GTO - 20M
