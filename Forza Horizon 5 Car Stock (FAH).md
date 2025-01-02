@@ -118,7 +118,7 @@ Pontiac
 * 1x GTO Judge - 50M
 
 RAESR
-* 6x Tachyon - 20M/car
+* 5x Tachyon - 20M/car
 
 Renault
 * 2x Clio R.S. '16 - 20M/car
