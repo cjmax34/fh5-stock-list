@@ -87,9 +87,6 @@ Lynk & Co
 Lotus
 * 9x 2-Eleven - 10M/car
 
-Maserati
-* 1x 8CTF - 25M
-
 McLaren
 * 13x 12C - 30M/car
 * ~~2x 650S Spider - 30M~~
@@ -112,10 +109,10 @@ Nissan
 
 Plymouth
 * 1x Belvedere - 50M
-* 2x Fury - 45M/car
+* 1x Fury - 45M/car
 
 Pontiac
-* 1x GTO Judge - 50M
+* 2x GTO Judge - 50M
 
 RAESR
 * 5x Tachyon - 20M/car
