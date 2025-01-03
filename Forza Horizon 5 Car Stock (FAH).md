@@ -55,7 +55,7 @@ Ford
 * 1x Fiesta ST '23 - 25M
 
 HDT
-* 4x VK Commodore - 30M/car
+* 3x VK Commodore - 30M/car
 
 Honda
 * 3x Ridgeline Trophy Truck - 15M/car
@@ -78,9 +78,6 @@ Koenigsegg
 Lamborghini
 * 3x Countach '21 - 25M/car
 
-Lincoln
-* 1x Continental - 40M/car
-
 Lynk & Co
 * 3x #100 Cyan Racing 03 - 20M/car
 
@@ -89,7 +86,7 @@ Lotus
 
 McLaren
 * 13x 12C - 30M/car
-* ~~2x 650S Spider - 30M~~
+* 2x 650S Spider - 30M
 
 Mercedes-AMG
 * 4x GT Black Series - 25M/car
