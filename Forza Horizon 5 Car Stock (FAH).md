@@ -58,7 +58,7 @@ HDT
 * 3x VK Commodore - 30M/car
 
 Honda
-* 3x Ridgeline Trophy Truck - 15M/car
+* 2x Ridgeline Trophy Truck - 15M/car
 
 Hoonigan
 * 5x Gymkhana 9 Focus - 50M/car
